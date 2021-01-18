@@ -1,1 +1,1 @@
-# Twisted
+# Images utilizadas no trabalho final
