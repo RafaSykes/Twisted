@@ -1,1 +1,1 @@
-# Images utilizadas no trabalho final
+# Imagens utilizadas no trabalho final
